@@ -4,7 +4,7 @@
 <head>
     <title>My Guitar Shop</title>
     <link rel="stylesheet" type="text/css"
-          href="/ex_starts/ch05_ex1/main.css">
+          href="/sa646/public_html/html5-boilerplate/IS218/MVCPRACTICE/week11">
 </head>
 
 <!-- the body section -->
